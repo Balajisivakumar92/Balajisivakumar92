@@ -27,4 +27,4 @@ I'm currently learning and making dirty my hands on 3D OpenGL and Dicom Images.
 LinkedIn - https://www.linkedin.com/in/balaji-sivakumar-ba4ba2162/
 
 ### ⚡ Fun fact: ...
-Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than batman. Yes, Batman, it is true. The amount of copied code is hundred times more than typing a code. The Ctrl-Z is better than a time machine.
+Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than batman. Yes, Batman, it is true. The amount of copied code is hundred times more than typing a code. The Ctrl-Z is better than a time machine
