@@ -2,9 +2,11 @@
 Hi there 👋 I am Balaji Sivakumar
 </h2>
 
-<p align="center">
-<img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/e426702edf874b181aced1e2fa5c6cde.gif">
-</p>
+<a href="https://www.linkedin.com/in/balaji-sivakumar-ba4ba2162/" target="_blank">
+  <p align="center">
+    <img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/e426702edf874b181aced1e2fa5c6cde.gif">
+  </p>
+</a>
 
 ### About me
 Iam Lead Software Engineer and Machine Learning Engineer with a demonstrated history of working in the medical device industry and Tech YouTuber.
@@ -27,9 +29,11 @@ I'm working has a Lead Software Engineer and managing core software development 
 ### 🌱 I’m currently learning ...
 I'm currently learning and making dirty my hands on 3D OpenGL and Dicom Images.
 
-<p align="center">
-<img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/79731568097599.5b50bca477735.jpg">
-</p>
+<a href="https://www.youtube.com/channel/UCM1adL_A-vmCFXlFvjJu9-w" target="_blank">
+  <p align="center">
+    <img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/79731568097599.5b50bca477735.jpg">
+  </p>
+</a>
 
 ### 📫 How to reach me: ...
 [![YouTube: UCM1adL_A-vmCFXlFvjJu9-w](https://img.shields.io/youtube/channel/views/UCM1adL_A-vmCFXlFvjJu9-w?style=social)](https://www.youtube.com/channel/UCM1adL_A-vmCFXlFvjJu9-w)
