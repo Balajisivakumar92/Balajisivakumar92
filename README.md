@@ -1,7 +1,7 @@
 <h2 align="center">
 Hi there 👋 I am Balaji Sivakumar
-  
 </h2>
+
 <p align="center">
 <img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
@@ -27,8 +27,9 @@ I'm working has a Lead Software Engineer and managing core software development 
 ### 🌱 I’m currently learning ...
 I'm currently learning and making dirty my hands on 3D OpenGL and Dicom Images.
 
-### ⚡ Fun fact: ...
-Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than batman. Yes, Batman, it is true. The amount of copied code is hundred times more than typing a code. The Ctrl-Z is better than a time machine
+<p align="center">
+<img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/79731568097599.5b50bca477735.jpg">
+</p>
 
 ### 📫 How to reach me: ...
 [![YouTube: UCM1adL_A-vmCFXlFvjJu9-w](https://img.shields.io/youtube/channel/views/UCM1adL_A-vmCFXlFvjJu9-w?style=social)](https://www.youtube.com/channel/UCM1adL_A-vmCFXlFvjJu9-w)
