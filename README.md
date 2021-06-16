@@ -3,7 +3,7 @@ Hi there 👋 I am Balaji Sivakumar
   
 </h2>
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1454037/screenshots/3082355/night-shiftdribbbler.gif">
+<img src="https://github.com/Balajisivakumar92/Balajisivakumar92/blob/main/github%20profile%20gif/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 
 ### About me
