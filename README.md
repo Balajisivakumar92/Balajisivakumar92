@@ -36,7 +36,7 @@ I'm currently learning and making dirty my hands on 3D OpenGL and Dicom Images.
 </a>
 
 ### 📫 How to reach me: ...
-[![YouTube: UCM1adL_A-vmCFXlFvjJu9-w](https://img.shields.io/youtube/channel/views/UCM1adL_A-vmCFXlFvjJu9-w?style=social)](https://www.youtube.com/channel/UCM1adL_A-vmCFXlFvjJu9-w)
-[![YouTube: UCM1adL_A-vmCFXlFvjJu9-w](https://img.shields.io/youtube/channel/subscribers/UCM1adL_A-vmCFXlFvjJu9-w?style=social)](https://www.youtube.com/channel/UCM1adL_A-vmCFXlFvjJu9-w)
+[![YouTube: UCZuwrDIodl4KFlycA6Ps6sQ](https://img.shields.io/youtube/channel/views/UCZuwrDIodl4KFlycA6Ps6sQ?style=social)](https://www.youtube.com/channel/UCZuwrDIodl4KFlycA6Ps6sQ)
+[![YouTube: UCZuwrDIodl4KFlycA6Ps6sQ](https://img.shields.io/youtube/channel/subscribers/UCZuwrDIodl4KFlycA6Ps6sQ?style=social)](https://www.youtube.com/channel/UCZuwrDIodl4KFlycA6Ps6sQ)
 [![Twitter: Balajisivakuma6](https://img.shields.io/twitter/follow/Balajisivakuma6?style=social)](https://twitter.com/Balajisivakuma6)
 [![GitHub Balajisivakumar92](https://img.shields.io/github/followers/Balajisivakumar92?label=follow&style=social)](https://github.com/Balajisivakumar92)
