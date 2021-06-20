@@ -24,7 +24,7 @@ Iam Lead Software Engineer and Machine Learning Engineer with a demonstrated his
 
 ### 🔭 I’m currently working on ...
 **Curneu MedTech Innovations - IITM**
-I'm working has a Lead Software Engineer and managing core software development team with count of 5 to 10 and Skilled in QT framework, AI, React development and 3D staffs.
+I'm working has a Lead Software Engineer and managing core software development team with count of 5 to 10 and Skilled in QT framework, AI, React development and 3D staffs
 
 ### 🌱 I’m currently learning ...
 I'm currently learning and making dirty my hands on 3D OpenGL and Dicom Images.
