@@ -15,7 +15,8 @@ If you catch me outside of work, I'm a wall painter and an avid lover of cricket
 
 I also like meeting new people over a cup of coffee. Feel free to reach out at balaji.sivakumar2830@gmail.com or DM on LinkedIn
 
-### 🤹🏻 Competencies: Python, C++, C#, JavaScript, SQL, NoSQL, machine learning, Deep Learning, Qt Widgets, QML, ReactJS, React Native, Unity3D, Blender, Maya, UI/UX, AdobeXD, Adobe Photoshop, Adobe illustrate, Business Intelligence
+### 🤹🏻 Competencies: 
+Python, C++, C#, JavaScript, SQL, NoSQL, machine learning, Deep Learning, Qt Widgets, QML, ReactJS, React Native, Unity3D, Blender, Maya, UI/UX, AdobeXD, Adobe Photoshop, Adobe illustrate, Business Intelligence
 
 
   <p align="center">
