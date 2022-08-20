@@ -7,7 +7,7 @@ Hi there 👋 I am Balaji Sivakumar
   </p>
 
 ### About me
-I have over 3.5 years of experience working as a software engineer and a Mechain learning engineer. Currently, I work as the Lead Software Engineer at SurgeonsLab, where I lead a cross-functional team of four to seven, building unique neurosurgery simulation software (Qt, C++, JavaScript) that is helping surgeons or residents in neurosurgery practice! I'm deeply passionate about creating loved and trusted healthcare software that helps surgeons or residents to get practice well and saves millions of lives.
+I have over 4 years of experience working as a software engineer and a Mechain learning engineer. Currently, I work as the Lead Software Engineer at SurgeonsLab, where I lead a cross-functional team of four to seven, building unique neurosurgery simulation software (Qt, C++, JavaScript) that is helping surgeons or residents in neurosurgery practice! I'm deeply passionate about creating loved and trusted healthcare software that helps surgeons or residents to get practice well and saves millions of lives.
 
 Previously, I worked at Curneu MedTech Innovation as a Lead Software Engineer and Mechain learning engineer, building a recommendation engine to recommend the best and clinically proven acupuncture points to practitioners and simulation software (Qt, C++, JavaScript, Python) for traditional medicine (Acupuncture) which helps traditional medicine practitioners to identify and punch the Acupuncture needle perfectly.
 
